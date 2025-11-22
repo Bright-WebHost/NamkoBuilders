@@ -232,7 +232,7 @@ export default function Home() {
 
 
                 {/*Start Team Two */}
-                <section className="team-two" style={{backgroundColor:'black'}}>
+                {/* <section className="team-two" style={{backgroundColor:'black'}}>
     <div className="container">
         <div className="sec-title text-center">
             <div className="sub-title">
@@ -241,9 +241,9 @@ export default function Home() {
             <h2 style={{color:'white'}}>Our Talented Team <br/>
                 Member Behind Namko</h2>
         </div>
-        {/* Add justify-content-center to center the columns */}
+        
         <div className="row justify-content-center">
-            {/*Start Team Two Single */}
+          
             <div className="col-xl-4 col-lg-4 wow fadeInUp" data-wow-delay=".3s">
                 <div className="team-two__single">
                     <div className="team-two__single-img">
@@ -252,7 +252,7 @@ export default function Home() {
                         </div>
                         <div className="content-box">
                             <h3><a href="/team-details">Mr. G. Mohammed</a></h3>
-                            {/* <p>Developer</p> */}
+                         
                         </div>
                         <ul className="social-links clearfix">
                             <li className="share"><a href="#"><span className="icon-share"></span></a>
@@ -266,9 +266,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-            {/*End Team Two Single */}
-
-            {/*Start Team Two Single */}
+            
             <div className="col-xl-4 col-lg-4 wow fadeInDown" data-wow-delay=".3s">
                 <div className="team-two__single">
                     <div className="team-two__single-img">
@@ -277,7 +275,7 @@ export default function Home() {
                         </div>
                         <div className="content-box">
                             <h3><a href="team-details">Mr. G. Akthar Hussain</a></h3>
-                            {/* <p>Designer</p> */}
+                          
                         </div>
                         <ul className="social-links clearfix">
                             <li className="share"><a href="#"><span className="icon-share"></span></a>
@@ -291,10 +289,10 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-            {/*End Team Two Single */}
+           
         </div>
     </div>
-</section>
+</section> */}
                 {/*End Team Two */}
                 </div>
 
